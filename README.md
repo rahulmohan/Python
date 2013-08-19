@@ -1,6 +1,8 @@
 Python
 ======
 
+OperPy is a new python library containing useful numerical and data-structure operations.
+
 StudentGradeBook.py
 
 This is a student grade book application. It allows you to assign weightage of tests, homework, classwork, 
