@@ -1,0 +1,7 @@
+Author of OperPy: Rahul Mohan, 2013
+
+OperyPy v. 1.0.0
+
+Next update:
+
+Will add more functions to the library
