@@ -1,3 +1,6 @@
+#Author: Rahul Mohan
+#Program: gradebooktest.py
+
 import StudentGradeBook #Assumes StudentGradeBook.py is in your working directory
 
 studentlist = []
