@@ -1,3 +1,6 @@
+#Author: Rahul Mohan
+#Program: StudentGradeBook.py
+
 class GradeBook:
     
     def __init__(self, name, coursename):
