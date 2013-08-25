@@ -12,3 +12,8 @@ will calculate the final grade of the student and report various statistics as w
 gradebooktest.py
 
 This program tests the GradeBook class. It also shows how to create a hash table with all the students info's.
+
+Upcoming Projects (which I am currently working on):
+
+Bank Account Manager in which there is an abtract class called "Account" and many different accounts you can manage
+under that. There will also be a GUI to view and compare info from your different accounts.
